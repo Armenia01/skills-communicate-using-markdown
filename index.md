@@ -6,4 +6,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
 ``` javascript
 var myVar = "Helloo world.";
-``
+```
+```javascript
+print.out(myVar)
+```
