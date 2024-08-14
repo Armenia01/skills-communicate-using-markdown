@@ -10,3 +10,6 @@ var myVar = "Helloo world.";
 ```javascript
 print.out(myVar)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
